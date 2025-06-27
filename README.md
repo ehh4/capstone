@@ -1,4 +1,4 @@
 # capstone
 Capstone Project with Benaroya Research
 
-(capstone_poster.png)
+![Capstone Poster](capstone_poster.png)
